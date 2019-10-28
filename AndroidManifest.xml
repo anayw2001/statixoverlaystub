@@ -3,5 +3,5 @@
     android:versionCode="1"
     android:versionName="1.0">
 
-    <application android:label="Overlays" android:icon="@drawable/ic_launcher" android:hasCode="false" />
+    <application android:label="Overlays" android:hasCode="false" />
 </manifest>
